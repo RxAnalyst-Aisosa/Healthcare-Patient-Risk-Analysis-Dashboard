@@ -47,6 +47,7 @@ This project demonstrates how Microsoft Excel can transform raw healthcare data 
 
 ## Dashboard Preview
 
+![Healtthcare Patient Risk Analysis Dashboard](Image/Dashboard.png)
 
 ---
 
