@@ -47,7 +47,6 @@ This project demonstrates how Microsoft Excel can transform raw healthcare data 
 
 ## Dashboard Preview
 
-*Dashboard image coming soon.*
 
 ---
 
@@ -106,21 +105,6 @@ healthcare-patient-risk-analysis-dashboard
 ├── Data
 ├── Images
 ```
-
-## Future Improvement
-
-## 📈 6-Month Learning Roadmap
-
-This project is the first milestone in my data analytics portfolio. Over the next six months, I will continue developing my technical skills by building practical, real-world projects using industry-standard data analytics tools.
-
-| Month | Focus | Goals |
-|--------|-------|-------|
-| Month 1 | **Microsoft Excel** | Master advanced Excel functions, data cleaning, dashboards, and automation. |
-| Month 2 | **SQL** | Learn database design, querying, joins, aggregations, and data transformation. |
-| Month 3 | **Power BI** | Build interactive dashboards, learn Power Query and DAX, and publish business intelligence reports. |
-| Month 4 | **Python** | Analyse data using Pandas, automate workflows, and create visualisations with Matplotlib. |
-| Month 5 | **R** | Perform statistical analysis, data visualisation, and reproducible reporting using R. |
-| Month 6 | **Integrated Portfolio Projects** | Combine Excel, SQL, Power BI, Python, and R to develop end-to-end analytics projects and expand my GitHub portfolio. |
 
 ---
 
