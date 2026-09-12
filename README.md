@@ -66,6 +66,12 @@ Healthcare-Patient-Risk-Analysis-Dashboard/
 └── README.md
 ```
 
+## Portfolio Journey
+
+**Stage 1 — Analytics Foundations:** this project  
+→ **[Stage 2 — Coffee Sales Analysis](https://github.com/RxAnalyst-Aisosa/Coffee-Sales-Analysis-Excel-Portfolio-Project)**  
+→ **[Stage 3 — Excel Sales Analysis Dashboard](https://github.com/RxAnalyst-Aisosa/Excel-Sales-Analysis-Dashboard)**
+
 ## Portfolio Progression
 
 This was my first complete analytics portfolio project. It helped me move from learning individual Excel features to completing a full analysis from dataset preparation through to dashboard presentation.
