@@ -1,120 +1,82 @@
 # Patient Health Risk Analysis Dashboard
 
+> **Portfolio Stage 1 — Analytics Foundations | Healthcare Analytics | Microsoft Excel**
+
+This project marks the foundation stage of my transition into data analytics. Drawing on my healthcare background, I used Microsoft Excel to explore a synthetic patient dataset, identify patterns in health risk indicators, and present the results through an interactive dashboard.
+
+![Patient Health Risk Analysis Dashboard](Image/Dashboard.png)
+
 ## Project Overview
 
-This project demonstrates an end-to-end healthcare data analytics workflow using **Microsoft Excel**. It explores patient demographics, lifestyle behaviours, clinical indicators, and healthcare utilisation to identify patterns that support evidence-based healthcare decision-making.
+The analysis focuses on patient demographics, lifestyle behaviours, clinical indicators and healthcare utilisation. The goal was to practise an end-to-end analytical workflow: preparing data, exploring patterns, developing useful KPIs and communicating findings visually.
 
-The project includes:
+| Dataset | Records | Variables |
+|---|---:|---:|
+| Synthetic healthcare dataset | **4,980** | **18** |
 
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
-- PivotTables
-- PivotCharts
-- Interactive Dashboard
-- KPI Development
-- Data Storytelling
+## Questions Explored
 
----
+- What does the patient population look like by age and key health indicators?
+- How common are smoking and hypertension within the dataset?
+- What patterns appear among patients classified as higher risk?
+- How do indicators such as BMI, blood pressure and hospital visits differ across the population?
+- How can the findings be communicated clearly in an interactive Excel dashboard?
 
-## Business Problem
+## Key Findings
 
-Healthcare organisations generate large volumes of patient data that require effective analysis to identify trends, monitor health risks, and support informed decision-making.
+- The dataset contains **4,980 patient records**.
+- Average patient age was approximately **54 years**.
+- Smoking prevalence was approximately **23%**.
+- Hypertension prevalence was approximately **25%**.
+- Higher-risk patients showed higher blood pressure and more hospital visits.
+- Average BMI indicated an overall overweight population.
 
-This project demonstrates how Microsoft Excel can transform raw healthcare data into meaningful insights through interactive visualisations and dashboard reporting.
+## What I Did
 
----
-
-## Project Objectives
-
-- Clean and prepare healthcare data for analysis.
-- Perform exploratory data analysis.
-- Analyse patient demographics and clinical characteristics.
-- Explore relationships between lifestyle factors and health outcomes.
-- Build an interactive Excel dashboard.
-- Present insights that support data-driven healthcare decisions.
-
----
-
-## Dataset
-
-| Item | Value |
-|------|------|
-| Dataset | Synthetic Healthcare Dataset |
-| Records | 4,980 |
-| Variables | 18 |
-
----
-
-## Dashboard Preview
-
-![Healtthcare Patient Risk Analysis Dashboard](Image/Dashboard.png)
-
----
-
-## Dashboard Features
-
-- Interactive slicers
-- KPI cards
-- PivotTables
-- PivotCharts
-- Executive summary
-- Key insights
-
----
-
-## Key Insights
-
-- Analysed 4,980 patient records.
-- Average patient age was approximately 54 years.
-- Smoking prevalence was approximately 23%.
-- Hypertension prevalence was approximately 25%.
-- Patients classified as higher risk had higher blood pressure and more hospital visits.
-- The average BMI indicated an overall overweight patient population.
-
----
-
-## Tools Used
-
-- Microsoft Excel
-- PivotTables
-- PivotCharts
-- Slicers
-- Conditional Formatting
-- Dashboard Design
-
----
+- Prepared and validated the healthcare dataset for analysis.
+- Performed exploratory analysis of demographic, lifestyle and clinical variables.
+- Built PivotTables to summarise key measures.
+- Created KPI cards and PivotCharts.
+- Added slicers for interactive exploration.
+- Designed a dashboard to bring the main findings together in one view.
 
 ## Skills Demonstrated
 
-- Data Cleaning
-- Data Validation
-- Exploratory Data Analysis
-- Dashboard Development
-- Data Visualisation
-- Business Analysis
-- Healthcare Analytics
-- Data Storytelling
-
----
+- Microsoft Excel
+- Data cleaning and validation
+- Exploratory data analysis
+- PivotTables and PivotCharts
+- KPI development
+- Interactive slicers
+- Healthcare analytics
+- Dashboard design
+- Data visualisation
+- Insight communication
 
 ## Repository Structure
 
 ```text
-healthcare-patient-risk-analysis-dashboard
-│
-├── Dashboard
-├── Data
-├── Images
+Healthcare-Patient-Risk-Analysis-Dashboard/
+├── Dashboard/
+│   └── Excel dashboard workbooks
+├── Data/
+│   └── Cleaned healthcare dataset
+├── Image/
+│   └── Dashboard.png
+└── README.md
 ```
+
+## Portfolio Progression
+
+This was my first complete analytics portfolio project. It helped me move from learning individual Excel features to completing a full analysis from dataset preparation through to dashboard presentation.
+
+My later projects build on this foundation by introducing more structured multi-table analysis, stronger business-question framing, more advanced Excel functions and increasingly professional project documentation.
+
+## Why This Project Matters
+
+My background is in pharmacy and healthcare, so this project gave me an opportunity to connect domain knowledge with analytical thinking. It also strengthened my ability to move beyond simply producing charts and instead focus on the questions the analysis is intended to answer.
 
 ---
 
-
-## Author
-
-**Lizzy**
-
-Aspiring Data Analyst | Healthcare Analytics | Microsoft Excel | SQL | Power BI | Stata | R
-
-
-> **Portfolio Note:** This repository is the first project in my journey to becoming a data analyst. Future projects will demonstrate progressively advanced skills in Excel, SQL, Power BI, Python, and R through real-world analytics case studies.
+**Aisosa Elizabeth Erhunmwunsee**  
+*Pharmacy | Business Analytics | Data Analysis | Healthcare Analytics*
